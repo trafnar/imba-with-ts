@@ -1,6 +1,7 @@
 # Imba with Typescript
 
 Simple example showing how you can add typescript files to your imba project.
+Look in `/app/` and you'll see `hello.ts` then look in `/app/client.imba` and you'll see it gets imported there.
 
 Below is the standard new imba project readme:
 
