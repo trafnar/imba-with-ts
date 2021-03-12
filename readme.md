@@ -1,3 +1,9 @@
+# Imba with Typescript
+
+Simple example showing how you can add typescript files to your imba project.
+
+Below is the standard new imba project readme:
+
 # Getting Started
 
 This project was bootstrapped with [imba-base-template](https://github.com/imba/imba-base-template).
